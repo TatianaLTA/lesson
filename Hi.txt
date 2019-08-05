@@ -1,2 +1,4 @@
 print("Good evening;");
 print("My friend and colleagues;");
+print("Hello everybody;");
+print("I am glad to see you;");

@@ -1,2 +1,2 @@
-print("Good evening!");
-print("My friend and colleagues");
+print("Good evening;");
+print("My friend and colleagues;");
